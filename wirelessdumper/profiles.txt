@@ -1,0 +1,22 @@
+
+Profiles on interface Wi-Fi 2:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : Wireless media
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : Wireless media
+    All User Profile     : Acro-ant
+

@@ -1,0 +1,17 @@
+
+Allow list on the system (group policy) 
+--------------------------------------- 
+    <None>
+
+Allow list on the system (user) 
+------------------------------- 
+    <None>
+
+Block list on the system (group policy) 
+--------------------------------------- 
+    <None>
+
+Block list on the system (user) 
+------------------------------- 
+    <None>
+
